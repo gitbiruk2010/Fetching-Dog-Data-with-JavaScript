@@ -12,7 +12,7 @@ this project displays a list of dog breeds, their details, random dog facts, and
 
 ### styles.css
 - contains styles for the webpage.
-- styles for body, header, breed list, breed details, dog facts, dog groups, and footer.
+- styles for body, header, breed list, breed details, dog facts, and dog groups.
 - includes media queries for responsiveness on tablet and desktop devices.
 
 ### script.js
@@ -26,7 +26,6 @@ this project displays a list of dog breeds, their details, random dog facts, and
 - **breed details**: shows details of a selected breed.
 - **dog facts**: fetches and displays random facts about dogs.
 - **dog groups**: displays information about various dog groups.
-- **footer**: contains year, class, copyright, and webpage design information, along with a small logo.
 
 ## setup
 
@@ -35,5 +34,4 @@ this project displays a list of dog breeds, their details, random dog facts, and
 3. ensure internet connectivity for api calls in `script.js`.
 
 ## notes
-- replace `path_to_logo.png` in `index.html` with the actual path to your logo image.
-- customize the content in the footer as needed.
+- feel free to clone and customize the content as you wish... cheers!
